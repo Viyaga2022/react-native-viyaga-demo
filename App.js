@@ -7,6 +7,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 
 const Stack = createStackNavigator();
+// ANDROID APP ID: viyagamohan.reactnativeviyagademo
 
 export default function App() {
   return (
